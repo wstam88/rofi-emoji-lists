@@ -69,7 +69,7 @@
 <span lang='Hushed face woo shh'></span> 😯
 <span lang='Frowning face aw what'></span> 😦
 <span lang='Anguished face stunned nervous'></span> 😧
-<span lang='Cry face tears sad depressed upset :'('></span> 😢
+<span lang='Cry face tears sad depressed upset'></span> 😢
 <span lang='Disappointed Relieved face phew sweat nervous'></span> 😥
 <span lang='Drooling Face face'></span> 🤤
 <span lang='Sleepy face tired rest nap'></span> 😪
